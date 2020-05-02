@@ -3,7 +3,7 @@
 <p align="center">NLP/state-of-the-art language model (BERT) based Question & Answering pipeline to answer all task questions after analyzing articles abstract of COVID-19, SARS-CoV-2</p>
 
 <p align="center">
-    <img src="input_data/sample_output.png" width="700">
+    <img src="input_data/sample_output.PNG" width="700">
 </p>
 
 <h2 align="center">Objectives</h2>
