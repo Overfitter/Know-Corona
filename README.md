@@ -8,6 +8,4 @@
 <li>To develop NLP based solution that can help the medical community to answer high priority scientific questions</li>
 
 
-**Search-engine-on-steroids.** Korono is a question-answering platform conceived to facilitate the research of information regarding COVID-19. You can think of Korono as a search-engine-on-steroids.
-
-**Working principle.** Korono engine is composed of two phases: the search engine phase and the question-answering phase. In the first place, given a query `q`, the search engine returns all relevant papers from that query. Later on, the answer is extracted from each paper and displayed.
+**Approach** Leverage BM25 Rank function with Pre-trained BioBERT Q&A Model (SQuAD 2.0) from Transformers
