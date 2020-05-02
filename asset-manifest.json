@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Know-Corona/static/css/main.70abab53.chunk.css",
-    "main.js": "/Know-Corona/static/js/main.f81d428e.chunk.js",
-    "main.js.map": "/Know-Corona/static/js/main.f81d428e.chunk.js.map",
+    "main.js": "/Know-Corona/static/js/main.b05b900a.chunk.js",
+    "main.js.map": "/Know-Corona/static/js/main.b05b900a.chunk.js.map",
     "runtime-main.js": "/Know-Corona/static/js/runtime-main.4a172bf7.js",
     "runtime-main.js.map": "/Know-Corona/static/js/runtime-main.4a172bf7.js.map",
     "static/js/2.4fc2e24d.chunk.js": "/Know-Corona/static/js/2.4fc2e24d.chunk.js",
     "static/js/2.4fc2e24d.chunk.js.map": "/Know-Corona/static/js/2.4fc2e24d.chunk.js.map",
     "index.html": "/Know-Corona/index.html",
-    "precache-manifest.80ba9d8b5fca3c8e9a16625bb9a15c58.js": "/Know-Corona/precache-manifest.80ba9d8b5fca3c8e9a16625bb9a15c58.js",
+    "precache-manifest.b95d2b3f3ab0b0288742a4e438a0f5bb.js": "/Know-Corona/precache-manifest.b95d2b3f3ab0b0288742a4e438a0f5bb.js",
     "service-worker.js": "/Know-Corona/service-worker.js",
     "static/css/main.70abab53.chunk.css.map": "/Know-Corona/static/css/main.70abab53.chunk.css.map",
     "static/js/2.4fc2e24d.chunk.js.LICENSE.txt": "/Know-Corona/static/js/2.4fc2e24d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4a172bf7.js",
     "static/js/2.4fc2e24d.chunk.js",
     "static/css/main.70abab53.chunk.css",
-    "static/js/main.f81d428e.chunk.js"
+    "static/js/main.b05b900a.chunk.js"
   ]
 }
