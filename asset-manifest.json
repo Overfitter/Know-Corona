@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GoCoronaGo/static/css/main.70abab53.chunk.css",
-    "main.js": "/GoCoronaGo/static/js/main.36dca796.chunk.js",
-    "main.js.map": "/GoCoronaGo/static/js/main.36dca796.chunk.js.map",
+    "main.js": "/GoCoronaGo/static/js/main.86321156.chunk.js",
+    "main.js.map": "/GoCoronaGo/static/js/main.86321156.chunk.js.map",
     "runtime-main.js": "/GoCoronaGo/static/js/runtime-main.88daffd9.js",
     "runtime-main.js.map": "/GoCoronaGo/static/js/runtime-main.88daffd9.js.map",
     "static/js/2.4fc2e24d.chunk.js": "/GoCoronaGo/static/js/2.4fc2e24d.chunk.js",
     "static/js/2.4fc2e24d.chunk.js.map": "/GoCoronaGo/static/js/2.4fc2e24d.chunk.js.map",
     "index.html": "/GoCoronaGo/index.html",
-    "precache-manifest.8c7f4db458842d6c3dd88d9b16d1fce9.js": "/GoCoronaGo/precache-manifest.8c7f4db458842d6c3dd88d9b16d1fce9.js",
+    "precache-manifest.d9344e66771d84515a6552ec5a1e65cf.js": "/GoCoronaGo/precache-manifest.d9344e66771d84515a6552ec5a1e65cf.js",
     "service-worker.js": "/GoCoronaGo/service-worker.js",
     "static/css/main.70abab53.chunk.css.map": "/GoCoronaGo/static/css/main.70abab53.chunk.css.map",
     "static/js/2.4fc2e24d.chunk.js.LICENSE.txt": "/GoCoronaGo/static/js/2.4fc2e24d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.88daffd9.js",
     "static/js/2.4fc2e24d.chunk.js",
     "static/css/main.70abab53.chunk.css",
-    "static/js/main.36dca796.chunk.js"
+    "static/js/main.86321156.chunk.js"
   ]
 }
