@@ -2,6 +2,10 @@
 
 <p align="center">NLP/state-of-the-art language model (BERT) based Question & Answering pipeline to answer all task questions after analyzing articles abstract of COVID-19, SARS-CoV-2</p>
 
+<p align="center">
+    <img src="input_data/sample_output.png" width="700">
+</p>
+
 <h2 align="center">Objectives</h2>
 
 <li>In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19)</li>
