@@ -1,6 +1,27 @@
 <h1 align="center">🔍 Know-Corona</h1>
 
 <p align="center">NLP/state-of-the-art language model (BERT) based Question & Answering pipeline to answer all task questions after analyzing articles abstract of COVID-19, SARS-CoV-2</p>
+<p align="center">
+  <a href="https://github.com/Overfitter/Know-Corona/stargazers">
+    <img src="https://img.shields.io/github/stars/Overfitter/Know-Corona.svg?colorA=orange&colorB=orange&logo=github"
+         alt="GitHub stars">
+  </a>
+  <a href="https://Know-Corona.readthedocs.io/">
+      <img src="https://readthedocs.org/projects/Know-Corona/badge/?version=latest"
+           alt="ReadTheDoc">
+    </a>
+  <a href="https://pypi.org/search/?q=Know-Corona">
+      <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/Know-Corona">
+  </a>
+  <a href="https://github.com/Overfitter/Know-Corona/issues">
+        <img src="https://img.shields.io/github/issues/Overfitter/Know-Corona.svg"
+             alt="GitHub issues">
+  </a>
+  <a href="https://github.com/Overfitter/Know-Corona/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/Overfitter/Know-Corona.svg"
+             alt="GitHub license">
+  </a>  
+</p>
 
 <p align="center">
     <img src="output_data/sample_output.PNG" width="700">
