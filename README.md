@@ -22,6 +22,11 @@
              alt="GitHub license">
   </a>  
 </p>
+<p align="center">
+   <a href="#why">Objectives</a> •
+   <a href="#getting-started">Approach</a> •
+</p>
+
 
 <p align="center">
     <img src="output_data/sample_output.PNG" width="700">
