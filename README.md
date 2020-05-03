@@ -24,7 +24,8 @@
 </p>
 <p align="center">
    <a href="#objectives">Objectives</a> •
-   <a href="#approach">Approach</a>
+   <a href="#approach">Approach</a> •
+   <a href="#references">References</a>
 </p>
 
 
@@ -41,3 +42,11 @@
 <h2 align="center">Approach</h2>
 
 <li>Leveraged BM25 Rank function with Pre-trained BioBERT Q&A Model (SQuAD 2.0) from Transformers</li>
+
+<h2 align="center">References</h2>
+
+<li>https://huggingface.co/models</li>
+<li>https://pypi.org/project/rank-bm25/</li>
+<li>https://github.com/gitname/react-gh-pages</li>
+<li>https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f</li>
+
