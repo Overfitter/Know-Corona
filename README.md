@@ -24,7 +24,7 @@
 </p>
 <p align="center">
    <a href="#why">Objectives</a> •
-   <a href="#getting-started">Approach</a> •
+   <a href="#getting-started">Approach</a>
 </p>
 
 
